@@ -10,7 +10,7 @@ jetthomp@gmail.com<br>
   <tbody>
     <tr>
       <td>
-        <img src="./BulletBlox/Resources/Icon.png" alt="Bullet Blox Icon" width=360px>
+        <img src="./BulletBlox/Resources/Icon.png" alt="Bullet Blox Icon">
       </td>
       <td>
         <p><b>Bullet Blox</b></p>
@@ -20,7 +20,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./PhantomFeline/Resources/Icon.png" alt="Phantom Feline Icon" width=360px>
+        <img src="./PhantomFeline/Resources/Icon.png" alt="Phantom Feline Icon">
       </td>
       <td>
         <p><b>Phantom Feline</b></p>
@@ -31,7 +31,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./PolarPanic/Resources/Icon.png" alt="Polar Panic Icon" width=360px>
+        <img src="./PolarPanic/Resources/Icon.png" alt="Polar Panic Icon">
       </td>
       <td>
         <p><b>Polar Panic</b></p>
@@ -42,7 +42,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./Boxes/Resources/Icon.png" alt="Boxes Icon" width=360px>
+        <img src="./Boxes/Resources/Icon.png" alt="Boxes Icon">
       </td>
       <td>
         <p><b>B.O.X.E.S.</b></p>
@@ -53,7 +53,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./BulletHellEngine/Resources/Icon.png" alt="Bullet Hell Engine Icon" width=360px>
+        <!-- <img src="./BulletHellEngine/Resources/Icon.png" alt="Bullet Hell Engine Icon"> -->
       </td>
       <td>
         <p><b>Bullet Hell Engine</b></p>
@@ -64,7 +64,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./Tindalos/Resources/Icon.png" alt="Tindalos Icon" width=360px>
+        <img src="./Tindalos/Resources/Icon.png" alt="Tindalos Icon">
       </td>
       <td>
         <p><b>Tindalos</b></p>
@@ -74,7 +74,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./LostAndFound/Resources/Icon.png" alt="Lost and Found Icon" width=360px>
+        <img src="./LostAndFound/Resources/Icon.png" alt="Lost and Found Icon">
       </td>
       <td>
         <p><b>Lost & Found</b></p>
@@ -85,7 +85,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./TroubleAmongUs/Resources/Icon.png" alt="Trouble Among Us Icon" width=360px>
+        <!-- <img src="./TroubleAmongUs/Resources/Icon.png" alt="Trouble Among Us Icon"> -->
       </td>
       <td>
         <p><b>Trouble Among Us</b></p>
@@ -95,7 +95,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./BlockSort/Resources/Icon.png" alt="Block Sort Icon" width=360px>
+        <img src="./BlockSort/Resources/Icon.png" alt="Block Sort Icon">
       </td>
       <td>
         <p><b>Block Sort</b></p>
@@ -105,7 +105,7 @@ jetthomp@gmail.com<br>
     </tr>
     <tr>
       <td>
-        <img src="./FirstPersonBulletHell/Resources/Icon.png" alt="First Person Bullet Hell Icon" width=360px>
+        <!-- <img src="./FirstPersonBulletHell/Resources/Icon.png" alt="First Person Bullet Hell Icon"> -->
       </td>
       <td>
         <p><b>First Person Bullet Hell</b></p>
