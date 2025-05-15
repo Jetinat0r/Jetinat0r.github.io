@@ -48,6 +48,7 @@ jetthomp@gmail.com<br>
         <p><b>B.O.X.E.S.</b></p>
         <p>This project is the result of a group project with Phaser, Flask, and SQLite I did for my Software Engineering class at UMBC, CMSC. I worked with a small team, and I was responsible for UI, gameplay, the level editor, and database communication</p>
         <p>B.O.X.E.S. is a box pushing puzzle game that was made with Phaser. Push boxes to solve puzzles, design and upload your own puzzles with the built in level editor, and solve other players' uploaded puzzles!</p>
+        <!-- <p>Github <a href="https://github.com/Jet-UMBC/cmsc447-sp2024-Ragdoll/tree/main/Sprint3">repository</a></p> -->
       </td>
     </tr>
     <tr>
