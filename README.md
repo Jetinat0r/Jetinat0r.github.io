@@ -16,6 +16,7 @@ jetthomp@gmail.com<br>
         <p><b>Bullet Blox</b></p>
         <p>This is the result of a group project I did as part of my UMBC Games Capstone course, CMSC493. I was lead programmer of the team and worked on almost everything, from UI to gameplay to enemy AI.</p>
         <p>Bullet Blox is a mobile platforming game that was built in Unity. Traverse through 10 levels leaping over dangerous pits, dodging scary enemies, and using your power over Blox to fight your way to your best friend, the sun!</p>
+        <p>Available on Android: <a href="https://jetinat0r.itch.io/bullet-blox">https://jetinat0r.itch.io/bullet-blox</a></p>
       </td>
     </tr>
     <tr>
